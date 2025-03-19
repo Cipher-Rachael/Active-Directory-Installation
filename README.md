@@ -20,7 +20,7 @@ Before following the lab, ensure you have:
 ## **Quick Start**  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Cipher-Rachael/Active-Directory-Installation.git
    ```
 2. Read the full lab on [🔗 Medium ](https://medium.com/@ladi.mabela/how-to-install-active-directory-in-windows-server-a-step-by-step-lab-246cc3b7f5ec) for detailed instructions.  
 
